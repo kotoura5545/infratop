@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <!-- CSSファイルの読み込み -->
+  <link rel="stylesheet" href="style.css">
+  <title>infratop</title>
+</head>
+<body>
+   <!-- header -->
+  <header>
+    <h1>
+      <a href="index.html">infratop</a>
+    </h1>
+  </header>
+  <nav>
+    <ul>
+       <li>
+       	<a href="https://web-camp.io/">webcamp</a>
+      </li>
+      <li>
+      	<a href="https://web-camp.io/pro/">webcamp pro</a>
+      </li>
+      <li>
+      	<a href="https://web-camp.io/pro/">webcamp woman</a>
+      </li>
+      <li>
+      	<a href="https://web-camp.io/pro/">webcamp career</a>
+      </li>
+    </ul>
+  </nav>
+  <footer>
+     <p class="footer-text">© All rights reserved by Infratop.Inc.</p>
+  </footer>
+</body>
+</html>
